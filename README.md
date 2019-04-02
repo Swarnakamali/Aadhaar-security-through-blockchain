@@ -1,5 +1,5 @@
 # Aadhaar-security-through-blockchain
-As the world's largest aadhaar database is centralised and vulnerable to many security threats, this project aims to decentralise the aadhaar database and store it in blocks.
+As the aadhaar database maintained by UIDAI is centralised and vulnerable to many security threats, this project aims to decentralise the aadhaar database and store it in blocks.
 ## Installation
 Install ganache-cli and solidity compiler
 ```bash
